@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Kaveesha Dissanayake</h1>
-<h3 align="center">An Undergraduate Student at Faculty of Computing,Sabaragamuwa University of Sri Lanka.I am a enthusiastic on Frontend web development.</h3>
+<h3 align="center">An Undergraduate Student at the Faculty of Computing, Sabaragamuwa University of Sri Lanka.I am enthusiastic about Full-Stack Web Development.</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaveeshadisssanayake&label=Profile%20views&color=0e75b6&style=flat" alt="kaveeshadisssanayake" /> </p>
@@ -9,7 +9,7 @@
 ---
 - 🔭 I’m currently studying on **Computing and Information Systems.**
 
-- 🌱 I’m currently learning **Angular,Next.js**
+- 🌱 I’m currently learning **Flutterr**
 
 - 👯 I’m looking to collaborate on **Web development team.**
 
