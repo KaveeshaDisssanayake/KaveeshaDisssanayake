@@ -9,7 +9,7 @@
 ---
 - 🔭 I’m currently studying on **Computing and Information Systems.**
 
-- 🌱 I’m currently learning **Flutterr**
+- 🌱 I’m currently learning **Vue Js**
 
 - 👯 I’m looking to collaborate on **Web development team.**
 
